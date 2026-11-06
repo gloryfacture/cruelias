@@ -1,7 +1,4 @@
-<img width="540" height="293" alt="Image" src="https://github.com/user-attachments/assets/e4bc5256-e38b-4795-ae33-ef25943d0e5c" />
-
-${\textsf{\color{#800000}𝓝o matter how many people you may lose, you have no choice but to go on 𝙡𝙞𝙫𝙞𝙣𝙜.}}$
-
+<img width="498" height="286" alt="Image" src="https://github.com/user-attachments/assets/35462500-4c80-4611-a18a-fca9d0a5faa2" />
 <!--
 **cruelias/cruelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
